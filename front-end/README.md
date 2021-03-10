@@ -6,10 +6,10 @@
 - React
 
 ## Setup Instructions
-- Install Node
-- npm install
-- Set the Authentication Service base url in the .env
-- npm start
+1. Install Node
+2. npm install
+3. Set the Authentication Service base url in the .env
+4. npm start
 
 ## ToDo
 - Implement Global State Management
