@@ -5,6 +5,12 @@
 - Typescript
 - React
 
+## Setup Instructions
+- Install Node
+- npm install
+- Set the Authentication Service base url in the .env
+- npm start
+
 ## ToDo
 - Implement Global State Management
 - Move routes from App component into a routes.ts file
