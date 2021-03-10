@@ -1,0 +1,1 @@
+export const EnvVars = { AUTH_API_BASE_URL: (process.env.AUTH_API_BASE_URL || 'http://localhost:9010/auth')  };
