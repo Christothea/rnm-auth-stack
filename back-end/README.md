@@ -9,9 +9,10 @@
 
 ## Setup Instructions
 1. Start MySql server
-2. npm install
-3. Create .env file and copy the contents of the .env.example, fill the values accordingly
-4. npm start
+2. Install Node
+3. npm install
+4. Create .env file and copy the contents of the .env.example, fill the values accordingly
+5. npm start
 
 ## ToDo
 - Write logs into an external centralized logging service/db (e.g. elastic)
