@@ -1,4 +1,4 @@
-# # Registration and Authentication backend
+# Registration and Authentication backend
 
 ## Environment
 - NodeJs
