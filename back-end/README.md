@@ -5,10 +5,10 @@
 - Typescript
 - NestJs
 - Swagger
-- MySql
+- MariaDb
 
 ## Setup Instructions
-1. Start MySql server
+1. Start MariaDb server
 2. Install Node
 3. npm install
 4. Create .env file and copy the contents of the .env.example, fill the values accordingly
